@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 ## About Me
 
 I am focused on Data Analytics, Data Science, and Python-based solutions.
