@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-## About Me
-
 I help organizations turn data into actionable insights and more efficient processes.
 
 My work focuses on data analytics, business intelligence, process automation, and data-driven decision making. By combining analytical thinking with technical implementation, I build solutions that help teams monitor performance, identify opportunities, reduce manual work, and make better decisions.
