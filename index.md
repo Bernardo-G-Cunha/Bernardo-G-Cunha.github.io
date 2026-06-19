@@ -19,7 +19,7 @@ Helping organizations make better decisions through analytics, dashboards, stati
 
 ### Customer Churn Analysis
 
-End-to-end churn analysis project with predictive modeling, business recommendations, and an interactive dashboard.
+End-to-end churn analysis project with business recommendations and an interactive dashboard.
 
 ### A/B Test Conversion Analysis
 
