@@ -53,7 +53,7 @@ plugins:
 
 author:
   name: "Bernardo Cunha"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.jpeg"
   bio: "Software Developer focused on Python, Automation, Data Analytics, and Backend Development."
 
   links:
