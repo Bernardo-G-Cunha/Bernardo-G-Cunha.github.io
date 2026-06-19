@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Site settings
 title: "Bernardo Cunha"
 email: ""
 description: >-
@@ -23,27 +24,25 @@ github_username: Bernardo-G-Cunha
 minimal_mistakes_skin: dark
 search: true
 
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Site URL
 url: "https://bernardo-g-cunha.github.io"
 baseurl: ""
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
 
 timezone: America/Sao_Paulo
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -77,7 +76,7 @@ footer:
       url: "https://www.linkedin.com/in/bernardo-gcunha"
 
 defaults:
-  # _posts
+  # Posts
   - scope:
       path: ""
       type: posts
@@ -88,7 +87,8 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
+  # Pages
   - scope:
       path: "_pages"
       type: pages
@@ -99,6 +99,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
