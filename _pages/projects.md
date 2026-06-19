@@ -3,8 +3,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Projects
-
 A selection of projects involving data analytics, experimentation, business intelligence, and software development.
 
 ### Customer Churn Analysis
