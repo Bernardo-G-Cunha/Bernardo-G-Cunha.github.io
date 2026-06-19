@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: "Data Analytics & Automation Solutions"
 ---
-
-# Data Analytics & Automation Solutions
 
 Helping organizations make better decisions through analytics, dashboards, statistical analysis, and process automation.
 
