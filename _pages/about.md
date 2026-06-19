@@ -5,31 +5,26 @@ title: "About"
 
 ## About Me
 
-I am focused on Data Analytics, Data Science, and Python-based solutions.
+I help organizations turn data into actionable insights and more efficient processes.
 
-My work centers on transforming data into insights that support better decision-making. I enjoy exploring datasets, identifying patterns, building analytical models, and communicating results in a clear and practical way.
+My work focuses on data analytics, business intelligence, process automation, and data-driven decision making. By combining analytical thinking with technical implementation, I build solutions that help teams monitor performance, identify opportunities, reduce manual work, and make better decisions.
 
-Alongside analytics, I have experience with Python programming, SQL, databases, and process automation, which allows me to develop complete solutions from data collection and preparation to analysis and reporting.
+My toolkit includes Python, SQL, statistical analysis, dashboard development, and workflow automation. I enjoy working across the entire analytics process, from data preparation and exploration to visualization and reporting.
 
-### Areas of Interest
+### Areas of Focus
 
 * Data Analytics
-* Data Science
-* Statistics
-* Machine Learning
-* Python
-* SQL
-* Data Visualization
+* Business Intelligence
+* Dashboard Development
 * Process Automation
+* Statistical Analysis
+* Data Visualization
+* Python & SQL
 
-### Current Focus
+### What You'll Find Here
 
-I am currently expanding my expertise in statistics, machine learning, and data analytics through practical projects involving exploratory analysis, predictive modeling, and business-oriented data solutions.
-
-### Projects
-
-This website showcases selected projects related to data analytics, data science, automation, and software development.
+This website showcases selected projects involving analytics, automation, reporting, and data solutions designed to solve real business problems.
 
 ### Contact
 
-Feel free to connect with me through LinkedIn or GitHub.
+Feel free to connect through LinkedIn or GitHub.
