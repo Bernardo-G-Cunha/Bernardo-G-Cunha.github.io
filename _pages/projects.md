@@ -1,3 +1,12 @@
+---
+permalink: /projects/
+title: "Projects"
+-----------------
+
+## Projects
+
+A selection of projects involving data analytics, experimentation, business intelligence, and software development.
+
 ### Customer Churn Analysis
 
 End-to-end churn analysis project involving data cleaning, exploratory data analysis, feature engineering, predictive modeling, and business recommendations. The project also includes an interactive dashboard for monitoring customer retention metrics and key drivers of churn.
