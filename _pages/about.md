@@ -1,8 +1,30 @@
----
-permalink: /about/
-title: "About"
----
+## About Me
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am focused on Data Analytics, Data Science, and Python-based solutions.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My work centers on transforming data into insights that support better decision-making. I enjoy exploring datasets, identifying patterns, building analytical models, and communicating results in a clear and practical way.
+
+Alongside analytics, I have experience with Python programming, SQL, databases, and process automation, which allows me to develop complete solutions from data collection and preparation to analysis and reporting.
+
+### Areas of Interest
+
+* Data Analytics
+* Data Science
+* Statistics
+* Machine Learning
+* Python
+* SQL
+* Data Visualization
+* Process Automation
+
+### Current Focus
+
+I am currently expanding my expertise in statistics, machine learning, and data analytics through practical projects involving exploratory analysis, predictive modeling, and business-oriented data solutions.
+
+### Projects
+
+This website showcases selected projects related to data analytics, data science, automation, and software development.
+
+### Contact
+
+Feel free to connect with me through LinkedIn or GitHub.
