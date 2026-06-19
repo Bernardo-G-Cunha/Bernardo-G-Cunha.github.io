@@ -9,7 +9,7 @@ A selection of projects involving data analytics, experimentation, business inte
 
 ### Customer Churn Analysis
 
-End-to-end churn analysis project involving data cleaning, exploratory data analysis, feature engineering, predictive modeling, and business recommendations. The project also includes an interactive dashboard for monitoring customer retention metrics and key drivers of churn.
+End-to-end churn analysis project involving data cleaning, exploratory data analysis, feature engineering, and business recommendations. The project also includes an interactive dashboard for monitoring customer retention metrics and key drivers of churn.
 
 **Repository:** [GitHub Repository](https://github.com/Bernardo-G-Cunha/customer-churn-analytics)
 
