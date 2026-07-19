@@ -17,6 +17,10 @@ Helping organizations make better decisions through analytics, dashboards, stati
 
 ## Featured Projects
 
+### Sales Forecast API
+
+Machine learning system for daily sales forecasting using the Rossmann Store Sales dataset.
+
 ### Customer Churn Analysis
 
 End-to-end churn analysis project with business recommendations and an interactive dashboard.
