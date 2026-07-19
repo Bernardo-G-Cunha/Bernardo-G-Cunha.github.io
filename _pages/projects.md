@@ -5,6 +5,12 @@ permalink: /projects/
 
 A selection of projects involving data analytics, experimentation, business intelligence, and software development.
 
+### Sales Forecast API
+
+End-to-end machine learning project for daily sales forecasting, including data preprocessing, feature engineering, model training, evaluation, and deployment. The project features a FastAPI prediction API, Docker containerization, automated CI/CD with GitHub Actions, and deployment on AWS.
+
+**Repository:** [GitHub Repository](https://github.com/Bernardo-G-Cunha/sales-forecast-api)
+
 ### Customer Churn Analysis
 
 End-to-end churn analysis project involving data cleaning, exploratory data analysis, feature engineering, and business recommendations. The project also includes an interactive dashboard for monitoring customer retention metrics and key drivers of churn.
