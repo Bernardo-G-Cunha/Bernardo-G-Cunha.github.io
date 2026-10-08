@@ -21,6 +21,10 @@ Helping organizations make better decisions through analytics, dashboards, stati
 
 Machine learning system for daily sales forecasting using the Rossmann Store Sales dataset.
 
+### Batch Purchase Prediction
+
+Batch machine learning pipeline for e-commerce purchase prediction using PySpark, MLflow, Airflow, and Databricks.
+
 ### Customer Churn Analysis
 
 End-to-end churn analysis project with business recommendations and an interactive dashboard.
