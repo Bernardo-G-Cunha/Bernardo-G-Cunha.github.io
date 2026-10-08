@@ -11,6 +11,12 @@ End-to-end machine learning project for daily sales forecasting, including data 
 
 **Repository:** [GitHub Repository](https://github.com/Bernardo-G-Cunha/sales-forecast-api)
 
+### Batch Purchase Prediction
+
+End-to-end batch machine learning pipeline for e-commerce purchase prediction, covering data ingestion, Medallion Architecture with PySpark, feature engineering, MLflow model management, and batch inference. The pipeline is orchestrated with Airflow locally and runs on Databricks for production-oriented execution.
+
+**Repository:** [GitHub Repository](https://github.com/Bernardo-G-Cunha/batch-purchase-prediction)
+
 ### Customer Churn Analysis
 
 End-to-end churn analysis project involving data cleaning, exploratory data analysis, feature engineering, and business recommendations. The project also includes an interactive dashboard for monitoring customer retention metrics and key drivers of churn.
